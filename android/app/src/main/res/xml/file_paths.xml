@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Caché interna de la app -->
+    <cache-path name="cache" path="." />
+    <!-- Caché externa: /storage/emulated/0/Android/data/<package>/cache/... -->
+    <external-cache-path name="external_cache" path="." />
+</paths>
